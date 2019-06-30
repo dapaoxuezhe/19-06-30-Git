@@ -7,3 +7,4 @@ function fn(x,y) {
 fn(10,20)
 var y;
 
+var x;
